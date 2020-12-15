@@ -34,12 +34,21 @@ body
 
 }
 
+
 #post {
     background: white;
     padding: 1em;
 }
 
+
 #cabecera #logo {
     width: 20px;
     vertical-align: middle;
+}
+
+
+footer {
+    background: #777;
+    color: white;
+    text-align: center;
 }
